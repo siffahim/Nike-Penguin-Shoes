@@ -2,7 +2,7 @@ html{
     scroll-behavior: smooth;
 }
 :root{
-    --margin-bottom:100px;
+    --margin-bottom:50px;
     --header-bg:#FFF9F4;
 }
 .nike-color{
