@@ -3,6 +3,7 @@ html{
 }
 :root{
     --margin-bottom:100px;
+    --header-bg:#FFF9F4;
 }
 .nike-color{
     color: #FA804C;
@@ -12,6 +13,9 @@ html{
 }
 .margin-bottom{
     margin-bottom: var(--margin-bottom);
+}
+.header-bg{
+    background-color: var(--header-bg);
 }
 .btn-bg{
     background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
